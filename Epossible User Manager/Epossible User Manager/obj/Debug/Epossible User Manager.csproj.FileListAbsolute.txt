@@ -1,0 +1,72 @@
+c:\users\epossible\source\repos\Epossible User Manager\Epossible User Manager\obj\Debug\Epossible User Manager.csprojAssemblyReference.cache
+c:\users\epossible\source\repos\Epossible User Manager\Epossible User Manager\obj\Debug\Add_New_Employee.g.cs
+c:\users\epossible\source\repos\Epossible User Manager\Epossible User Manager\obj\Debug\MainWindow.g.cs
+c:\users\epossible\source\repos\Epossible User Manager\Epossible User Manager\obj\Debug\Manage_Employee_Settings.g.cs
+c:\users\epossible\source\repos\Epossible User Manager\Epossible User Manager\obj\Debug\App.g.cs
+c:\users\epossible\source\repos\Epossible User Manager\Epossible User Manager\obj\Debug\Epossible User Manager_MarkupCompile.cache
+c:\users\epossible\source\repos\Epossible User Manager\Epossible User Manager\obj\Debug\Epossible User Manager_MarkupCompile.lref
+c:\users\epossible\source\repos\Epossible User Manager\Epossible User Manager\bin\Debug\Epossible User Manager.exe.config
+c:\users\epossible\source\repos\Epossible User Manager\Epossible User Manager\bin\Debug\Epossible User Manager.exe
+c:\users\epossible\source\repos\Epossible User Manager\Epossible User Manager\bin\Debug\Epossible User Manager.pdb
+c:\users\epossible\source\repos\Epossible User Manager\Epossible User Manager\bin\Debug\Xceed.Wpf.AvalonDock.dll
+c:\users\epossible\source\repos\Epossible User Manager\Epossible User Manager\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+c:\users\epossible\source\repos\Epossible User Manager\Epossible User Manager\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+c:\users\epossible\source\repos\Epossible User Manager\Epossible User Manager\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+c:\users\epossible\source\repos\Epossible User Manager\Epossible User Manager\bin\Debug\Xceed.Wpf.DataGrid.dll
+c:\users\epossible\source\repos\Epossible User Manager\Epossible User Manager\bin\Debug\Xceed.Wpf.Toolkit.dll
+c:\users\epossible\source\repos\Epossible User Manager\Epossible User Manager\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+c:\users\epossible\source\repos\Epossible User Manager\Epossible User Manager\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+c:\users\epossible\source\repos\Epossible User Manager\Epossible User Manager\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+c:\users\epossible\source\repos\Epossible User Manager\Epossible User Manager\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+c:\users\epossible\source\repos\Epossible User Manager\Epossible User Manager\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+c:\users\epossible\source\repos\Epossible User Manager\Epossible User Manager\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+c:\users\epossible\source\repos\Epossible User Manager\Epossible User Manager\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+c:\users\epossible\source\repos\Epossible User Manager\Epossible User Manager\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+c:\users\epossible\source\repos\Epossible User Manager\Epossible User Manager\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+c:\users\epossible\source\repos\Epossible User Manager\Epossible User Manager\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+c:\users\epossible\source\repos\Epossible User Manager\Epossible User Manager\obj\Debug\Add_New_Employee.baml
+c:\users\epossible\source\repos\Epossible User Manager\Epossible User Manager\obj\Debug\MainWindow.baml
+c:\users\epossible\source\repos\Epossible User Manager\Epossible User Manager\obj\Debug\Manage_Employee_Settings.baml
+c:\users\epossible\source\repos\Epossible User Manager\Epossible User Manager\obj\Debug\Epossible User Manager.g.resources
+c:\users\epossible\source\repos\Epossible User Manager\Epossible User Manager\obj\Debug\Epossible_User_Manager.Properties.Resources.resources
+c:\users\epossible\source\repos\Epossible User Manager\Epossible User Manager\obj\Debug\Epossible User Manager.csproj.GenerateResource.cache
+c:\users\epossible\source\repos\Epossible User Manager\Epossible User Manager\obj\Debug\Epossible User Manager.csproj.CoreCompileInputs.cache
+c:\users\epossible\source\repos\Epossible User Manager\Epossible User Manager\obj\Debug\Epossible User Manager.csproj.CopyComplete
+c:\users\epossible\source\repos\Epossible User Manager\Epossible User Manager\obj\Debug\Epossible User Manager.exe
+c:\users\epossible\source\repos\Epossible User Manager\Epossible User Manager\obj\Debug\Epossible User Manager.pdb
+C:\test\Epossible User Manager\Epossible User Manager\bin\Debug\Epossible User Manager.exe.config
+C:\test\Epossible User Manager\Epossible User Manager\bin\Debug\Epossible User Manager.exe
+C:\test\Epossible User Manager\Epossible User Manager\bin\Debug\Epossible User Manager.pdb
+C:\test\Epossible User Manager\Epossible User Manager\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\test\Epossible User Manager\Epossible User Manager\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\test\Epossible User Manager\Epossible User Manager\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\test\Epossible User Manager\Epossible User Manager\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\test\Epossible User Manager\Epossible User Manager\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\test\Epossible User Manager\Epossible User Manager\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\test\Epossible User Manager\Epossible User Manager\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\test\Epossible User Manager\Epossible User Manager\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\test\Epossible User Manager\Epossible User Manager\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\test\Epossible User Manager\Epossible User Manager\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\test\Epossible User Manager\Epossible User Manager\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\test\Epossible User Manager\Epossible User Manager\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\test\Epossible User Manager\Epossible User Manager\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\test\Epossible User Manager\Epossible User Manager\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\test\Epossible User Manager\Epossible User Manager\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\test\Epossible User Manager\Epossible User Manager\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\test\Epossible User Manager\Epossible User Manager\obj\Debug\Epossible User Manager.csprojAssemblyReference.cache
+C:\test\Epossible User Manager\Epossible User Manager\obj\Debug\Add_New_Employee.g.cs
+C:\test\Epossible User Manager\Epossible User Manager\obj\Debug\MainWindow.g.cs
+C:\test\Epossible User Manager\Epossible User Manager\obj\Debug\Manage_Employee_Settings.g.cs
+C:\test\Epossible User Manager\Epossible User Manager\obj\Debug\App.g.cs
+C:\test\Epossible User Manager\Epossible User Manager\obj\Debug\Epossible User Manager_MarkupCompile.cache
+C:\test\Epossible User Manager\Epossible User Manager\obj\Debug\Epossible User Manager_MarkupCompile.lref
+C:\test\Epossible User Manager\Epossible User Manager\obj\Debug\Add_New_Employee.baml
+C:\test\Epossible User Manager\Epossible User Manager\obj\Debug\MainWindow.baml
+C:\test\Epossible User Manager\Epossible User Manager\obj\Debug\Manage_Employee_Settings.baml
+C:\test\Epossible User Manager\Epossible User Manager\obj\Debug\Epossible User Manager.g.resources
+C:\test\Epossible User Manager\Epossible User Manager\obj\Debug\Epossible_User_Manager.Properties.Resources.resources
+C:\test\Epossible User Manager\Epossible User Manager\obj\Debug\Epossible User Manager.csproj.GenerateResource.cache
+C:\test\Epossible User Manager\Epossible User Manager\obj\Debug\Epossible User Manager.csproj.CoreCompileInputs.cache
+C:\test\Epossible User Manager\Epossible User Manager\obj\Debug\Epossible User Manager.csproj.CopyComplete
+C:\test\Epossible User Manager\Epossible User Manager\obj\Debug\Epossible User Manager.exe
+C:\test\Epossible User Manager\Epossible User Manager\obj\Debug\Epossible User Manager.pdb

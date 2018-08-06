@@ -1,0 +1,46 @@
+﻿<Window x:Class="Epossible_User_Manager.Manage_Employee_Settings"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Epossible_User_Manager"
+        mc:Ignorable="d"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        Title="Manage_Employee_Settings" Height="550" Width="800">
+    <Grid>
+        <xctk:Wizard FinishButtonClosesWindow="True">
+            <xctk:WizardPage x:Name="IntroPage" 
+                                   Title="Welcome to Manage Employee Wizard"
+                                   Description="This Wizard will assist you on managing employee accounts" />
+            <xctk:WizardPage x:Name="Page1" PageType="Interior"
+                                   Title="Page 1"
+                                   Description="Employee management Page"
+                                   NextPage="{Binding ElementName=Page2}"
+                                   PreviousPage="{Binding ElementName=IntroPage}">
+                <Grid>
+                    <Label Content="Please select desired option from the list below:" HorizontalAlignment="Left" Margin="52,164,0,0" VerticalAlignment="Top" Width="660"/>
+                    <RadioButton x:Name="ResetPassRadioBTN" Content="Reset Employee's Password" HorizontalAlignment="Left" Margin="52,208,0,0" VerticalAlignment="Top"/>
+                    <RadioButton x:Name="ChgDeptRadioBTN" Content="Change Employee's Primary Department" HorizontalAlignment="Left" Margin="52,254,0,0" VerticalAlignment="Top"/>
+                    <RadioButton x:Name="ChgGroupRadioBTN" Content="Change Employee's Group Membership" HorizontalAlignment="Left" Margin="52,297,0,0" VerticalAlignment="Top"/>
+                    <RadioButton Content="Disable Employee's User Account" HorizontalAlignment="Left" Margin="52,344,0,0" VerticalAlignment="Top"/>
+                    <Label Content="Employee's First Name" HorizontalAlignment="Left" Margin="52,52,0,0" VerticalAlignment="Top"/>
+                    <TextBox HorizontalAlignment="Left" Height="23" Margin="191,55,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                    <Label Content="Employee's Last Name" HorizontalAlignment="Left" Margin="342,52,0,0" VerticalAlignment="Top"/>
+                    <TextBox HorizontalAlignment="Left" Height="23" Margin="498,55,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                    <Button Content="Submit" HorizontalAlignment="Left" Margin="668,60,0,0" VerticalAlignment="Top" Width="75"/>
+                    <Label Content="Please enter employee's first and last name to find the correct user account." HorizontalAlignment="Left" Margin="52,9,0,0" VerticalAlignment="Top"/>
+                    <Label Content="Selected User Account:" HorizontalAlignment="Left" Margin="52,102,0,0" VerticalAlignment="Top"/>
+                    <Label Content="User account" HorizontalAlignment="Left" Margin="225,102,0,0" VerticalAlignment="Top" Width="86"/>
+
+                </Grid>
+            </xctk:WizardPage>
+            <xctk:WizardPage x:Name="Page2" PageType="Interior"
+                                   Title="Page 2"
+                                   Description="This is the second page in the process"/>
+            <xctk:WizardPage x:Name="LastPage" PageType="Interior"
+                                   Title="Last Page"
+                                   Description="This is the last page in the process"
+                                   CanFinish="True"/>
+        </xctk:Wizard>
+    </Grid>
+</Window>

@@ -26,18 +26,20 @@ namespace Epossible_User_Manager
         public string Lastname { get; set; }
         public string UserName { get; set; }
         public string Password { get; set; }
-        public string GroupMembership { get; set; }
         public string Email { get; set; }
         public string Department { get; set; }
         public string OULDAPPath { get; set; }
-        public string DepGroupDN { get; set; }
         public string UserDN { get; set; }
-        public string DepGroupLDAPpath { get; set; }
         public string UserLDAPpath { get; set; }
         public string DomainName { get; set; }
         public string DomainDN { get; set; }
-        public string GroupList { get; set; }
+        public string DepGroupLDAPpath { get; set; }
+        public string DepGroupDN { get; set; }
+        public List<string> GroupList { get; set; }
         public string AllGroupsLDAPpath { get; set; }
+        public string GroupMembership { get; set; }
+
+
 
         public Add_New_Employee()
         {
@@ -66,13 +68,13 @@ namespace Epossible_User_Manager
             MessageBox.Show("Information successfully saved.");
 
             AllGroupsLDAPpath = "LDAP://ou=Domain Groups," + DomainDN;
-            //Find all groups in Domain Groups OU
             SearchGroup(AllGroupsLDAPpath);
         }
 
         private void SubmitBTN1_Click(object sender, RoutedEventArgs e)
         {
-
+            //Find all groups in Domain Groups OU
+            GroupList = SearchGroup(AllGroupsLDAPpath);
         }
 
         private void CreateUser_Click(object sender, RoutedEventArgs e)
@@ -172,10 +174,10 @@ namespace Epossible_User_Manager
             }
         }
         
-        public void SearchGroup(string direntryldappath)
+        public List<string> SearchGroup(string direntryldappath)
         {
+            var gplist = new List<string>();
             DirectoryEntry entry = new DirectoryEntry(direntryldappath);
-
             DirectorySearcher dSearch = new DirectorySearcher(entry);
             dSearch.Filter = "(&(objectClass=group))";
             dSearch.SearchScope = SearchScope.Subtree;
@@ -184,15 +186,15 @@ namespace Epossible_User_Manager
             
             foreach (SearchResult found in results)
             {
-               
-               
                 string group = (found.Properties["Name"][0].ToString());
                 var chbox = new CheckBox();
                 chbox.Content = group;
+                chbox.Name = group;
+                gplist.Add(group);
                 GroupListView.Items.Add(chbox);
-                                       
+                                    
             }
-           
+            return gplist;
         }
 
     }

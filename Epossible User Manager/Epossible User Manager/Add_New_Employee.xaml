@@ -31,7 +31,7 @@
                         <ComboBoxItem Name="IT">IT</ComboBoxItem>
                         <ComboBoxItem Name="Marketing">Marketing</ComboBoxItem>
                         <ComboBoxItem Name="Logistics">Logistics</ComboBoxItem>
-                        <ComboBoxItem Name="ProjectManagement">Project Management</ComboBoxItem>
+                        <ComboBoxItem Name="ProjectManagement">Project_Management</ComboBoxItem>
                     </ComboBox>
                     <Label Content="Computer Type" HorizontalAlignment="Left" Margin="64,328,0,0" VerticalAlignment="Top"/>
                     <CheckBox x:Name="DSCheckbox" Content="Desktop" HorizontalAlignment="Left" Margin="235,334,0,0" VerticalAlignment="Top"/>
